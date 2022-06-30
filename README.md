@@ -1,7 +1,7 @@
 # passgen
 Python project to generate passwords
 
-dependencies: 
+dependencies (run pip install requirements.txt to install additional libraries): 
 - win10toast
 - pyperclip
 
